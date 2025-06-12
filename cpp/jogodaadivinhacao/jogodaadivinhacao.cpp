@@ -67,5 +67,6 @@ int main () {
     else {
         cout << "Fim de jogo" << endl;
         cout << "Você perdeu. Tente de novo." << endl;
+        cout << "O valor do número secreto era " << numero_secreto << endl;
     }
 }
